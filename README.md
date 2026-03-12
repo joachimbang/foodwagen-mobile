@@ -261,15 +261,4 @@ flutter test test/widgets/cart_item_card_test.dart
 
 ---
 
-## �🧰 Conseils pour utiliser ce template
-
-- Évite de mettre de la logique métier dans les widgets.
-- Préfère exposer des actions dans les providers plutôt que des variables globales.
-- Écris des tests pour les providers / repositories (ils sont très faciles à isoler).
-- Garde le routing dans `app_router.dart` et utilise `NavigationHelper` pour éviter les strings magiques.
-
----
-
-## 📌 Remarque
-
-Ce README contient toutes les informations nécessaires pour comprendre l’architecture et faire évoluer le projet. Tu peux aussi consulter `README_EXPLICATION.md` pour une explication plus pédagogique (dossier par dossier) si tu veux approfondir.
+lication plus pédagogique (dossier par dossier) si tu veux approfondir.
