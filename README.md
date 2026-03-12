@@ -260,5 +260,3 @@ flutter test test/widgets/cart_item_card_test.dart
 > 💡 Tip: in unit tests, prefer mocking dependencies (repository, storage) rather than making real network calls.
 
 ---
-
-lication plus pédagogique (dossier par dossier) si tu veux approfondir.
