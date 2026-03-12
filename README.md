@@ -1,6 +1,6 @@
 # foodwagen-mobile
 
-# FoodWagen Mobile (template)
+# FoodWagen Mobile
 
 ---
 
