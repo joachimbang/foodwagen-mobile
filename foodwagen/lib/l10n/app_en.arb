@@ -1,0 +1,37 @@
+{
+  "@@locale": "en",
+  "appTitle": "FoodWagen",
+  "welcomeUser": "Welcome, {firstName}!",
+  "@welcomeUser": {
+    "placeholders": {
+      "firstName": {}
+    }
+  },
+  "welcomeSubtitle": "What would you like to eat today?",
+  "welcomeGuestTitle": "Welcome to FoodWagen!",
+  "welcomeGuestSubtitle": "Order delicious food from your favorite restaurants",
+  "home": "Home",
+  "foods": "Foods",
+  "foodsTitle": "Foods",
+  "searchFoodHint": "Search food by name...",
+  "noFoodFound": "No food found",
+  "createFood": "Create Food",
+  "editFood": "Edit Food",
+  "name": "Name",
+  "nameRequired": "Name is required",
+  "restaurantName": "Restaurant name",
+  "price": "Price",
+  "rating": "Rating",
+  "imageUrl": "Image URL",
+  "open": "Open",
+  "create": "Create",
+  "update": "Update",
+  "cart": "Cart",
+  "profile": "Profile",
+  "login": "Login",
+  "register": "Register",
+  "loginTitle": "Login",
+  "registerTitle": "Register",
+  "pageNotFound": "Page not found",
+  "goHome": "Go Home"
+}

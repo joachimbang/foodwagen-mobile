@@ -1,0 +1,37 @@
+{
+  "@@locale": "fr",
+  "appTitle": "FoodWagen",
+  "welcomeUser": "Bienvenue, {firstName} !",
+  "@welcomeUser": {
+    "placeholders": {
+      "firstName": {}
+    }
+  },
+  "welcomeSubtitle": "Qu’allez-vous manger aujourd’hui ?",
+  "welcomeGuestTitle": "Bienvenue sur FoodWagen !",
+  "welcomeGuestSubtitle": "Commandez de délicieux plats depuis vos restaurants préférés",
+  "home": "Accueil",
+  "foods": "Foods",
+  "foodsTitle": "Foods",
+  "searchFoodHint": "Rechercher un food par nom...",
+  "noFoodFound": "Aucun food trouvé",
+  "createFood": "Créer un Food",
+  "editFood": "Modifier le Food",
+  "name": "Nom",
+  "nameRequired": "Le nom est obligatoire",
+  "restaurantName": "Nom du restaurant",
+  "price": "Prix",
+  "rating": "Note",
+  "imageUrl": "URL de l'image",
+  "open": "Ouvert",
+  "create": "Créer",
+  "update": "Mettre à jour",
+  "cart": "Panier",
+  "profile": "Profil",
+  "login": "Connexion",
+  "register": "Inscription",
+  "loginTitle": "Connexion",
+  "registerTitle": "Inscription",
+  "pageNotFound": "Page introuvable",
+  "goHome": "Retour accueil"
+}
